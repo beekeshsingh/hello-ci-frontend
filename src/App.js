@@ -16,7 +16,7 @@ function App() {
         <a
           className="App-link"
           href="https://github.com/rohit-smpx/hello-ci-frontend">
-            View The Repo
+            Test View The Repo
         </a>
         <a
           className="App-link"
