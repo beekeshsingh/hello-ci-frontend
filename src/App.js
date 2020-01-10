@@ -11,7 +11,7 @@ function App() {
           Hello CI!
         </h3>
         <p>
-          A demo website for showing different CI pipelines.
+          A demo website for showing different CI pipelines Beekesh Singh.
         </p>
         <a
           className="App-link"
